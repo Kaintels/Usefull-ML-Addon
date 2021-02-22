@@ -20,8 +20,8 @@
 
 |Title|Description|Link|
 |---|:---:|---|
-|tensorflow-recommenders|recommender system models using TensorFlow|[[Link]](https://github.com/tensorflow/recommenders)|
-|neural-structured-learning|new learning paradigm to train neural networks by leveraging structured signals in addition to feature inputs|[[Link]](https://github.com/tensorflow/neural-structured-learning)|
+|tensorflow-recommenders|recommender system models|[[Link]](https://github.com/tensorflow/recommenders)|
+|neural-structured-learning|leveraging structured signals|[[Link]](https://github.com/tensorflow/neural-structured-learning)|
 
 
 ## PyTorch
