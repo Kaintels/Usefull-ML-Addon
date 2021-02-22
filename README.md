@@ -16,7 +16,7 @@
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-## Tensorflow 2.x
+## Tensorflow 2.x Application
 
 |Title|Description|Link|
 |---|:---:|---|
@@ -24,7 +24,7 @@
 |neural-structured-learning|leveraging structured signals|[[Link]](https://github.com/tensorflow/neural-structured-learning)|
 
 
-## PyTorch
+## PyTorch Application
 
 |Title|Description|Link|
 |---|:---:|---|
