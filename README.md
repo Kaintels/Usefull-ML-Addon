@@ -48,7 +48,7 @@
 |Title|Description|Link|
 |---|:---:|---|
 |FeatureSelectionGA|FeatureSelection using Genetic Algorithms|[[Link]](https://github.com/kaushalshetty/FeatureSelectionGA)|
-
+|NiaAML|FeatureSelection using AutoML|[[Link]](https://github.com/lukapecnik/NiaAML)|
 
 
 ## How to Contribution
