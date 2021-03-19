@@ -2,9 +2,9 @@
 
 A list of awesome machine learning library.
 
-
 _If you want to contribute to this repo, send a pull request (encouraged and welcome) or contact me [@Kaintels](mailto:swoohan@kakao.com)_
 
+_(Option) Contributors will be added to the list of contributors._
 
 ## Contributors
 
@@ -21,6 +21,14 @@ _If you want to contribute to this repo, send a pull request (encouraged and wel
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+## Description
+
+- TF : Tensorflow
+- PT : PyTorch
+- SK : Scikit-Learn
+
 
 ## Graph Neural Network
 
