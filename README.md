@@ -1,5 +1,11 @@
 # Awesome Machine Learning Library [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+A list of awesome machine learning library.
+
+
+_If you want to contribute to this repo, send a pull request (encouraged and welcome) or contact me [@Kaintels](mailto:swoohan@kakao.com)_
+
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -61,8 +67,3 @@
 |---|:---:|---|
 |FeatureSelectionGA|FeatureSelection using Genetic Algorithms|[[Link]](https://github.com/kaushalshetty/FeatureSelectionGA)|
 |NiaAML|FeatureSelection using AutoML|[[Link]](https://github.com/lukapecnik/NiaAML)|
-
-
-## How to Contribution
-
-Pull requests are encouraged and always welcome!
