@@ -16,12 +16,24 @@
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-## Tensorflow 2.x Application
+## Graph Neural Network
 
-|Title|Description|Link|
-|---|:---:|---|
-|tensorflow-recommenders|recommender system models|[[Link]](https://github.com/tensorflow/recommenders)|
-|neural-structured-learning|leveraging structured signals|[[Link]](https://github.com/tensorflow/neural-structured-learning)|
+|Title|Description|Framework|Link|
+|---|:---:|:---:|---|
+|Spektral|graph neural networks|TF|[[Link]](https://graphneural.network/)|
+|PyTorch geometric|graph neural networks|PT|[[Link]](https://pytorch-geometric.readthedocs.io/en/latest/#)|
+
+## Recommend Systems
+
+|Title|Description|Framework|Link|
+|---|:---:|:---:|---|
+|tensorflow-recommenders|recommender system models|TF|[[Link]](https://github.com/tensorflow/recommenders)|
+
+## Neural Structured Learning
+
+|Title|Description|Framework|Link|
+|---|:---:|:---:|---|
+|neural-structured-learning|leveraging structured signals|TF|[[Link]](https://github.com/tensorflow/neural-structured-learning)|
 
 
 ## PyTorch Application
