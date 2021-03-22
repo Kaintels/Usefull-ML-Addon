@@ -65,18 +65,18 @@ _(Option) Contributors will be added to the list of contributors._
 
 ## Hyperparameter Optimizer
 
-|Title|Description|Link|
-|---|:---:|---|
-|Bayesian Optimization|Bayesain optimization library|[[Link]](https://github.com/fmfn/BayesianOptimization)|
-|NiaPy|Nature Inspired Algorithms|[[Link]](https://github.com/NiaOrg/NiaPy)|
-|DEAP|Genetic Algorithms library|[[Link]](https://github.com/DEAP/deap)|
-|Optuna|Random Search, Bayesian Optimization|[[Link]](https://github.com/optuna/optuna)|
-|Hpbandster|HyperBand and BOHB optimization library|[[Link]](https://github.com/automl/HpBandSter)|
-|NNI|Include many optimization library|[[Link]](https://github.com/microsoft/nni)|
+|Title|Description|Framework|Link|
+|---|:---:|:---:|---|
+|Bayesian Optimization|Bayesain optimization library|-|[[Link]](https://github.com/fmfn/BayesianOptimization)|
+|NiaPy|Nature Inspired Algorithms|-|[[Link]](https://github.com/NiaOrg/NiaPy)|
+|DEAP|Genetic Algorithms library|-|[[Link]](https://github.com/DEAP/deap)|
+|Optuna|Random Search, Bayesian Optimization|-|[[Link]](https://github.com/optuna/optuna)|
+|Hpbandster|HyperBand and BOHB optimization library|-|[[Link]](https://github.com/automl/HpBandSter)|
+|NNI|Include many optimization library|-|[[Link]](https://github.com/microsoft/nni)|
 
 ## Feature Selection
 
-|Title|Description|Link|
-|---|:---:|---|
-|FeatureSelectionGA|FeatureSelection using Genetic Algorithms|[[Link]](https://github.com/kaushalshetty/FeatureSelectionGA)|
-|NiaAML|FeatureSelection using AutoML|[[Link]](https://github.com/lukapecnik/NiaAML)|
+|Title|Description|Framework|Link|
+|---|:---:|:---:|---|
+|FeatureSelectionGA|FeatureSelection using Genetic Algorithms|-|[[Link]](https://github.com/kaushalshetty/FeatureSelectionGA)|
+|NiaAML|FeatureSelection using AutoML|-|[[Link]](https://github.com/lukapecnik/NiaAML)|
