@@ -52,11 +52,16 @@ _(Option) Contributors will be added to the list of contributors._
 
 ## PyTorch Application
 
-|Title|Description|Link|
-|---|:---:|---|
-|early-stopping-pytorch|Pytorch early-stopping|[[Link]](https://github.com/Bjarten/early-stopping-pytorch)|
-|pytorch-metric-learning|Many loss and utils|[[Link]](https://github.com/KevinMusgrave/pytorch-metric-learning)|
-|pytorch-optimizer|Many optimizer|[[Link]](https://github.com/jettify/pytorch-optimizer)|
+|Title|Description|Framework|Link|
+|---|:---:|:---:|---|
+|early-stopping-pytorch|Pytorch early-stopping|PT|[[Link]](https://github.com/Bjarten/early-stopping-pytorch)|
+|pytorch-metric-learning|Many loss and utils|PT|[[Link]](https://github.com/KevinMusgrave/pytorch-metric-learning)|
+
+## Optimizers
+
+|Title|Description|Framework|Link|
+|---|:---:|:---:|---|
+|pytorch-optimizer|Many optimizer|PT|[[Link]](https://github.com/jettify/pytorch-optimizer)|
 
 ## Hyperparameter Optimizer
 
