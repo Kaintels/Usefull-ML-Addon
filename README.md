@@ -79,4 +79,13 @@ _(Option) Contributors will be added to the list of contributors._
 |Title|Description|Framework|Link|
 |---|:---:|:---:|---|
 |FeatureSelectionGA|FeatureSelection using Genetic Algorithms|-|[[Link]](https://github.com/kaushalshetty/FeatureSelectionGA)|
+
+## Automated Learning
+
+|Title|Description|Framework|Link|
+|---|:---:|:---:|---|
 |NiaAML|FeatureSelection using AutoML|-|[[Link]](https://github.com/lukapecnik/NiaAML)|
+|PyCaret|low-code machine learning library|SK|[[Link]](https://pycaret.org/)|
+|AutoKeras|An AutoML system based on Keras|TF|[[Link]](https://autokeras.com/)|
+
+
