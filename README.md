@@ -30,7 +30,20 @@ _(Option) Contributors will be added to the list of contributors._
 - SK : Scikit-Learn
 
 
-## Graph Neural Network
+## Spiking Neural Networks
+
+|Title|Description|Framework|Link|
+|---|:---:|:---:|---|
+|BindsNET|spiking neural networks|PT|[[Link]](https://github.com/BindsNET/bindsnet)|
+|NengoDL|spiking neural networks|TF|[[Link]](https://github.com/nengo/nengo-dl)|
+
+## Meta Learning
+
+|Title|Description|Framework|Link|
+|---|:---:|:---:|---|
+|learn2learn|software library for meta-learning research|PT|[[Link]](https://github.com/learnables/learn2learn)|
+
+## Graph Neural Networks
 
 |Title|Description|Framework|Link|
 |---|:---:|:---:|---|
