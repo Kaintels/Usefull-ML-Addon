@@ -69,6 +69,7 @@ _(Option) Contributors will be added to the list of contributors._
 |---|:---:|:---:|---|
 |early-stopping-pytorch|Pytorch early-stopping|PT|[[Link]](https://github.com/Bjarten/early-stopping-pytorch)|
 |pytorch-metric-learning|Many loss and utils|PT|[[Link]](https://github.com/KevinMusgrave/pytorch-metric-learning)|
+|pytorch-lighting|The lightweight PyTorch wrapper|PT|[[Link]](https://github.com/PyTorchLightning/pytorch-lightning)|
 
 ## Optimizers
 
