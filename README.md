@@ -49,6 +49,7 @@ _(Option) Contributors will be added to the list of contributors._
 |---|:---:|:---:|---|
 |Spektral|graph neural networks|TF|[[Link]](https://graphneural.network/)|
 |PyTorch geometric|graph neural networks|PT|[[Link]](https://pytorch-geometric.readthedocs.io/en/latest/#)|
+|Deep Graph Library (DGL) |graph neural networks|-|[[Link]](https://www.dgl.ai/)|
 
 ## Recommend Systems
 
